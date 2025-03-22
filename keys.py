@@ -1,2 +1,2 @@
-weather_API_KEY = "248e6506893034f083c4152f051d5bba"
-groq_API_KEY = "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"
+weather_API_KEY = "API KEY"
+groq_API_KEY = "API KEY"
